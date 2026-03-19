@@ -1,4 +1,4 @@
-```markdown
+
 <!-- DITZ TAKAHASHI - README PROFILE -->
 <!-- Copy paste ini ke README.md langsung -->
 
@@ -17,7 +17,7 @@
 
 ## 👤 About
 
-```yaml
+
 name: Aditiya N.W
 alias: Ditz Takahashi
 age: 14
@@ -25,7 +25,7 @@ location: Indonesia
 school: SMP
 skills: [JavaScript, HTML, CSS, Node.js, Express]
 hobbies: [coding, anime, manga, manwha, donghua, jualan]
-```
+
 
 <br />
 
@@ -210,7 +210,7 @@ Instagram [Produk] 🟡 Limited
 
 <br/>
 
----
+
 
 <p align="center">
   <sub>© 2024 Ditz Takahashi · Built with ❤️ + ☕ + 📺</sub>
@@ -219,4 +219,3 @@ Instagram [Produk] 🟡 Limited
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 </p>
-```
