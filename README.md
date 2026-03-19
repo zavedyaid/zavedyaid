@@ -12,7 +12,6 @@
 </p>
 
 ---
-
 ## 📋 About
 
 name: Aditiya N.W
@@ -28,7 +27,6 @@ school: SMP
 skills: [JavaScript, HTML, CSS, Node.js, Express]
 
 hobbies: [coding, anime, manga, manwha, donghua, jualan]
-
 ---
 
 ## 🖼️ Gallery
