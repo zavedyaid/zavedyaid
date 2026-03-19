@@ -39,7 +39,7 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
   <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/804e310d58b30cf6c9bed66429737892.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
   <br />
   <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/05d46e2a7b03d6c1b73382f142bfe453.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/05d46e2a7b03d6c1b73382f142bfe453.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/407d6e1cd4527015053a7836edda6f63.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
   <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/a41d1f70-5f24-461d-9dfe-7d05bd6960f5_removalai_preview.png" width="150" style="border-radius: 10px; margin: 5px;" />
 </div>
 
@@ -75,9 +75,8 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 
 | Anime | Manga | Manwha | Donghua |
 |-------|-------|--------|---------|
-| [Judul Anime] | [Judul Manga] | [Judul Manwha] | [Judul Donghua] |
-| [Judul Anime] | [Judul Manga] | [Judul Manwha] | [Judul Donghua] |
-
+| [Class Of The Elite] | [Judul Manga] | [Judul Manwha] | [Judul Donghua] |
+| [The Eminence in Shadow]
 ---
 
 ## 💼 Merchant
