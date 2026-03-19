@@ -40,7 +40,7 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
   <br />
   <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/char4.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
   <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/char5.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/fullbody.jpg" width="150" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/a41d1f70-5f24-461d-9dfe-7d05bd6960f5_removalai_preview.png" width="150" style="border-radius: 10px; margin: 5px;" />
 </div>
 
 ---
