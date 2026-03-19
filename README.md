@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/ditztakahashi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/ditztakahashi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:aditiya.nw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/DitzSenpai"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:aditzyhakun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=ditztakahashi&color=6C5CE7&style=flat" />
 </p>
 
@@ -107,7 +107,7 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 ---
 
 <p align="center">
-  <sub>© 2024 Ditz Takahashi · Built with ❤️ + ☕ + 📺</sub>
+  <sub>© 2025 Ditz Takahashi · Built with ❤️ + ☕ + 📺</sub>
 </p>
 
 <p align="center">
