@@ -1,4 +1,4 @@
-# Aditiya N.W (Ditz Takahashi)
+ 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=14+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing SVG" />
@@ -16,11 +16,17 @@
 ## 📋 About
 
 name: Aditiya N.W
+
 alias: Ditz Takahashi
+
 age: 14
+
 location: Indonesia
+
 school: SMP
+
 skills: [JavaScript, HTML, CSS, Node.js, Express]
+
 hobbies: [coding, anime, manga, manwha, donghua, jualan]
 
 ---
@@ -94,7 +100,7 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 ---
 
 ## 💬 Quote
-
+ 
 > *"Kadang kita perlu istirahat dari ngoding, tapi jangan pernah istirahat dari belajar."*
 >
 > *"Anime mengajarkan mimpi, coding mengajarkan cara mewujudkannya."*
@@ -108,3 +114,10 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 </p>
+# Hello, my name is Adit, you can call me Ditz
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=14+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing SVG" # Halo Nama ku Adit Bisa di panggil ditz
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=14+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing 
