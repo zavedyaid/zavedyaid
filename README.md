@@ -13,30 +13,23 @@
 
 ---
 ## 📋 About
-
 name: Aditiya N.W
-
 alias: Ditz Takahashi
-
 age: 14
-
 location: Indonesia
-
 school: SMP
-
 skills: [JavaScript, HTML, CSS, Node.js, Express]
-
 hobbies: [coding, anime, manga, manwha, donghua, jualan]
 ---
 
 ## 🖼️ Gallery
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/char1.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/char2.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/char3.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/83c215db36ed2f8aa47418f7b2677e0d.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/cb3ad8175bc80409855cf506c202792c.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/804e310d58b30cf6c9bed66429737892.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
   <br />
-  <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/char4.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/05d46e2a7b03d6c1b73382f142bfe453.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
   <img src="https://raw.githubusercontent.com/ditztakahashi/ditztakahashi/main/images/char5.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
   <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/a41d1f70-5f24-461d-9dfe-7d05bd6960f5_removalai_preview.png" width="150" style="border-radius: 10px; margin: 5px;" />
 </div>
