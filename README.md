@@ -1,7 +1,7 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=14+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=15+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,19 +13,19 @@
 
 ---
 
-## 📋 About
+##  About
 
-name: Aditiya N.W
+name: Aditiya Nur Wahyuda
 
-alias: Ditz Takahashi
+alias: Ditz Digital / DitzKun
 
-age: 14
+age: 15
 
 location: Indonesia
 
 school: SMP
 
-skills: [JavaScript, HTML, CSS, Node.js, Express]
+skills: [JavaScript, Typescript, HTML, CSS, Node.js, Express]
 
 hobbies: [coding, anime, manga, manwha, donghua, jualan]
 
@@ -63,6 +63,7 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 | Skill | Level |
 |-------|-------|
 | JavaScript | ████░░░░░░ 40% |
+| JavaScript | ██████░░░░ 70% |
 | HTML/CSS | ███████░░░ 70% |
 | Node.js | ██░░░░░░░░ 20% |
 | Express.js | █░░░░░░░░░ 10% |
@@ -71,7 +72,7 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 
 ---
 
-## 📺 Watchlist
+##  Watchlist
 
 | Anime | Manga | Manwha | Donghua |
 |-------|-------|--------|---------|
@@ -79,7 +80,7 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 | [The Eminence in Shadow] | [] | [Circles] | []
 ---
 
-## 💼 Merchant
+##  Merchant
 
 | Platform | Products | Status |
 |----------|----------|--------|
@@ -89,7 +90,7 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ditztakahashi&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117" width="49%" />
@@ -107,16 +108,16 @@ hobbies: [coding, anime, manga, manwha, donghua, jualan]
 ---
 
 <p align="center">
-  <sub>© 2025 Ditz Takahashi · Built with ❤️ + ☕ + 📺</sub>
+  <sub>© 2026 DitzDigital · Built with ❤️ + ☕ + 📺</sub>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 </p>
-# Hello, my name is Adit, you can call me Ditz
+# Hello, my name is Aditya, you can call me Ditz
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=14+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing SVG" # Halo Nama ku Adit Bisa di panggil ditz
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=14+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing SVG" # Halo Nama ku Aditya Bisa di panggil ditz
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=14+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing 
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=15+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing 
