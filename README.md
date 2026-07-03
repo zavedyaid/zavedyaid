@@ -17,7 +17,7 @@
 
 name: Aditiya Nur Wahyuda
 
-alias: Ditz Digital / DitzKun
+alias: ZavedyaID / SHINN
 
 age: 15
 
